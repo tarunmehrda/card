@@ -1,4 +1,4 @@
-# yolo_card_assignment
+# yolo_card
 
 A new Flutter project.
 
