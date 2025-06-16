@@ -25,7 +25,7 @@ A sleek and fun Flutter app that showcases **randomized user data cards** using 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/yolo_card.git
+   git clone https://github.com/tarunmehrda/yolo_card.git
    cd yolo_card
 Install dependencies
 
@@ -70,13 +70,7 @@ Edit
 
 ---
 
-### ✅ What you need to do:
 
-1. Replace `https://github.com/your-username/yolo_card.git` with your actual GitHub repo link.
-2. Replace `Your Name` and social links with yours (if you want).
-3. If you want the image previews to be side-by-side or full-width, adjust the `<img>` widths accordingly.
-
-Let me know if you want a dark-mode-friendly version or auto-generated documentation!
 
 
 
