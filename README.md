@@ -65,17 +65,6 @@ Made with ❤️ by Your Name
 ⭐️ Show some love
 If you like this project, give it a ⭐ on GitHub. It helps a lot!
 
-yaml
-Copy
-Edit
-
----
-
-
-
-
-
-
 
 
 
